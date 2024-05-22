@@ -23,7 +23,7 @@ CaptureGem can be [found here](https://www.capturegem.com).
 The app automatically generates thumbnail grids for all your recordings so you can quickly preview the content. In the Review Tab, you can see these. Additionally, you can
 filter your saved recordings by model and watch past recordings.
 
-<img width="500" src="https://github.com/vrcamrecordings/Camsoda-recorder/assets/155075920/566aa9f0-45be-458b-89b1-450dad8d4e7a" alt="Camsoda Recording Review Feature">
+<img width="500" src="https://github.com/vrcamrecordings/Camsoda-recorder/assets/155075920/b5e3cdc0-aaf7-48e9-a635-595e6ba11afc" alt="Camsoda Recording Review Feature">
 
 ## Further Details
 
